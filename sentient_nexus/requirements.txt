@@ -1,0 +1,4 @@
+# Requirements for Sentient Nexus
+
+pytest
+click
